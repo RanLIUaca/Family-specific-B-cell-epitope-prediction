@@ -1,0 +1,25 @@
+ID,Organism Name,Organism Abbreviation,Taxonomic ID,Family
+V01,Andes orthohantavirus (Andes hantavirus),ANDES,1980456,Hantaviridae
+V02,Other SARS,BCHK3,442736,Coronaviridae
+V03,Crimean-Congo hemorrhagic fever orthonairovirus (Crimean-Congo haemorrhagic fever virus),CCHFI,652961,Nairoviridae
+V04,Chikungunya virus,CHIKS,371094,Togaviridae
+V05,Human coronavirus 229E (Coronavirus 229E),CVH22,11137,Coronaviridae
+V06,Human coronavirus HKU1 (CoV-HKU1),CVHK1,290028,Coronaviridae
+V07,Human coronavirus NL63 (Coronavirus NL63),CVHNL,277944,Coronaviridae
+V08,Betacoronavirus 1,CVHOC,31631,Coronaviridae
+V09,Enterovirus A (Coxsackievirus A),CXA2,33757,Picornaviridae
+V10,Dengue virus,DENV,11059,Flaviviridae
+V11,Zaire ebolavirus (Zaire Ebola virus),EBOZM,128952,Filoviridae
+V12,Hepatovirus A (Hepatitis A virus),HAVHM,12098,Picornaviridae
+V13,Orthohepevirus A (Hepatitis E virus HEV),HEVCH,652674,Hepeviridae
+V14,Human herpesvirus 1,HHV11,10299,Herpesviridae
+V15,Human herpesvirus 2,HHV2H,10315,Herpesviridae
+V16,Primate T-lymphotropic virus 1,HTL1A,11926,Retroviridae
+V17,Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1),HV1A2,11685,Retroviridae
+V18,Influenza A virus,I34A1,211044,Orthomyxoviridae
+V19,Measles morbillivirus (Cell-associated subacute sclerosing panencephalitis),MEASC,645098,Paramyxoviridae
+V20,Middle East respiratory syndrome-related coronavirus (MERS coronavirus),MERS1,1263720,Coronaviridae
+V21,Puumala orthohantavirus (Puumala hantavirus),PUUMS,39002,Hantaviridae
+V22,SARS-CoV1,SARS1,694009,Coronaviridae
+V23,SARS-CoV2,SARS2,2697049,Coronaviridae
+V24,Zika virus,ZIKV,64320,Flaviviridae
