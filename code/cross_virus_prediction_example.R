@@ -9,10 +9,10 @@ set.seed(2021)
 sars_data = read.csv('../data/SARS-CoV+-+B+cell+epitope.csv',sep = '',stringsAsFactors = F)
 covid_data = read.csv('../data/SARS-CoV-2+-+B+cell+epitope.csv',sep = '',stringsAsFactors = F)
 denv_data = read.csv('../data/DENV_B_cell_epitope.csv',sep = ',',header = F,stringsAsFactors = F)[,2:3]
-zika_data = read.csv('../data/ZIKA_B_cell_epitope.csv',sep = ',',header = F,stringsAsFactors = F)[,2:3]
+zika_data = read.csv('../data/ZIKV_B_cell_epitope.csv',sep = ',',header = F,stringsAsFactors = F)[,2:3]
 
 raw_data = c(list(sars_data),list(covid_data),list(denv_data),list(zika_data))
-data_names = c('SARS-CoV','SARS-CoV-2','DENV','ZIKA')
+data_names = c('SARS-CoV','SARS-CoV-2','DENV','ZIKV')
 for (j in 1:length(data_names)) {
   colnames(raw_data[[j]]) = c('pep','prob')
   raw_data[[j]]['virus'] = data_names[j]
