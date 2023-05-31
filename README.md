@@ -1,6 +1,4 @@
 # KRE (kernel regression estimation)
-These are the data and code mentioned in the manuscript (Family-specific training improves linear B cell epitope prediction for emerging viruses).
-
 `KRE` utilizes sequence homology to predict the epitopes of a novel virus. Users can define their own training dataset, while we recommend a training dataset only including the data from the other viruses in the same family. In the manuscript, we compared the family-specific and general predictions in detail. Family-specific prediction is a better choice.
 
 The file description is as follows:  
